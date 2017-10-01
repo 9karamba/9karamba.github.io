@@ -1,0 +1,14 @@
+.col-lg-2, .col-md-4, .col-sm-6, .col-xs-12 img{
+	height: 136px;
+	margin-top: 70px;
+}
+h1{
+	text-align: center;
+	font-size: 36px;
+	text-transform: uppercase;
+	margin-bottom: 50px;
+	margin-top: 137px;
+}
+p{
+	margin-top: 31px;
+}
