@@ -29,7 +29,7 @@ body{
 }
 .email-box{
 	position: absolute;
-	margin: 54px 30px 80px 30px;
+	margin: 53px 30px 80px 30px;
 }
 .email-box span{
 	font-weight: bold;
@@ -38,7 +38,7 @@ body{
 	font-size: 16px;
 }
 .email-box .pass{
-	margin-bottom: 14px;
+	margin-bottom: 20px;
 }
 .email-box input{
 	width: 260px;
@@ -48,7 +48,7 @@ body{
 	border: 0.5px solid #cfdede;
 }
 .email-box button{
-	margin-top: 9px;
+	margin-top: 21px;
 	width: 260px;
 	height: 45px;
 	background-color: #01c2c2;
