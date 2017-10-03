@@ -1,0 +1,51 @@
+.box{
+	position: relative;
+	width: 320px; 
+	height: 370px;
+	background-color: #FFF;
+	margin: 100px auto;
+}
+.akk-box{
+	position: absolute;
+	width: 148px;
+	height: 26px;
+	background-color: #01b3b3;
+	margin: 100px auto;
+	margin-left: 30px;
+	margin-top: -4px;
+	text-align: center;
+}
+.akk-box span{
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #FFF;
+	font-size: 12px;
+}
+.email-box{
+	position: absolute;
+	margin: 55px 30px 80px 30px;
+}
+.email-box span{
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #FFF;
+	font-size: 16px;
+}
+.email-box input{
+	width: 260px;
+	height: 29px;
+	margin-bottom: 19px;
+}
+.email-box button{
+	margin-top: 16px;
+	width: 260px;
+	height: 45px;
+	background-color: #01b3b3;
+}
+p{
+	font-weight: bold;
+	font-size: 12px;
+}
+b{
+	color: #01b3b3;
+}
