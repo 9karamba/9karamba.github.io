@@ -29,7 +29,7 @@ body{
 }
 .email-box{
 	position: absolute;
-	margin: 55px 30px 80px 30px;
+	margin: 54px 30px 80px 30px;
 }
 .email-box span{
 	font-weight: bold;
@@ -37,7 +37,7 @@ body{
 	color: #FFF;
 	font-size: 16px;
 }
-.email-box input .pass{
+.email-box .pass{
 	margin-bottom: 14px;
 }
 .email-box input{
