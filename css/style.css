@@ -4,6 +4,7 @@
 	height: 370px;
 	background-color: #FFF;
 	margin: 100px auto;
+	border: 0.5px solid #01b3b3;
 }
 .akk-box{
 	position: absolute;
@@ -48,4 +49,10 @@ p{
 }
 b{
 	color: #01b3b3;
+}
+.email{
+	margin-bottom: 17px;
+}
+.pass{
+	margin-bottom: 18px;
 }
