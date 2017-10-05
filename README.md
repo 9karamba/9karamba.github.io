@@ -13,4 +13,6 @@
 
 [Урок 13](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/lesson-13 " ") - Верстка при помощи pixel-perfect
 
-[Практика.Часть 1](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/practica-1 " ") - Верстка шапки
+[Практика. Часть 1](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/practica-1 " ") - Верстка шапки
+
+[Урок 14](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/lesson-14 " ") - Работа со шрифтами
