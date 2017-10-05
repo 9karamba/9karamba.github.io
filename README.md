@@ -10,3 +10,7 @@
 [Урок 8](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/lesson-8 " ") - Ускорение верстки в разы
 
 [Урок 9](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/lesson-9 " ") - Верстка при помощи bootstrap
+
+[Урок 13](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/lesson-13 " ") - Верстка при помощи pixel-perfect
+
+[Практика.Часть 1](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/practica-1 " ") - Верстка шапки
