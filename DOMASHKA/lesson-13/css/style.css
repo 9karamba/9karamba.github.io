@@ -1,0 +1,68 @@
+body{
+	font-family: Arial;
+}
+.box{
+	position: relative;
+	width: 320px; 
+	height: 370px;
+	background-color: #fbfdfd;
+	margin: 100px auto;
+	border: 0.5px solid #cfdede;
+}
+.akk-box{
+	position: absolute;
+	width: 148px;
+	height: 26px;
+	background-color: #01b3b3;
+	margin: 100px auto;
+	margin-left: 30px;
+	margin-top: -4px;
+	text-align: center;
+	padding-top: 3px; 
+}
+.akk-box span{
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #FFF;
+	font-size: 12px;
+	padding: 12px auto; 
+}
+.email-box{
+	position: absolute;
+	margin: 53px 30px 80px 30px;
+}
+.email-box span{
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #FFF;
+	font-size: 16px;
+}
+.email-box .pass{
+	margin-bottom: 20px;
+}
+.email-box input{
+	width: 260px;
+	height: 29px;
+	margin-bottom: 17px;
+	box-shadow: none;
+	border: 0.5px solid #cfdede;
+}
+.email-box button{
+	margin-top: 21px;
+	width: 260px;
+	height: 45px;
+	background-color: #01c2c2;
+}
+p{
+	font-weight: bold;
+	font-size: 12px;
+}
+b{
+	color: #01b3b3;
+}
+input::-webkit-input-placeholder{
+    padding-left: 5px;
+    font-style: italic;
+    font-size: 12px;
+    font-family: normal;
+}
