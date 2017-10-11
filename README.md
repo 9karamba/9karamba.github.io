@@ -16,3 +16,5 @@
 [Практика. Часть 1](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/practica-1 " ") - Верстка шапки
 
 [Урок 14](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/lesson-14 " ") - Работа со шрифтами
+
+[Практика. Часть 2](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/practica-2 " ") - Подключение шрифтов
