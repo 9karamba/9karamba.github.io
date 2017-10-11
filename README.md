@@ -20,3 +20,5 @@
 [Практика. Часть 2](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/practica-2 " ") - Подключение шрифтов
 
 [Урок 15](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/lesson-15 " ") - Псевдоклассы и псевдоэлементы
+
+[Практика. Часть 3](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/practica-3 " ") - Эффекты при наведении и адаптив первого экрана
