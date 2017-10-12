@@ -23,6 +23,6 @@
 
 [Практика. Часть 3](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/practica-3 " ") - Эффекты при наведении и адаптив первого экрана
 
-[Урок 15](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/lesson-16 " ") - Слайдер на сайте
+[Урок 16](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/lesson-16 " ") - Слайдер на сайте
 
 [Практика. Часть 4](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/practica-4 " ") - Верстка блока с преимуществами, Слайдер
