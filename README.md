@@ -28,3 +28,5 @@
 [Практика. Часть 4](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/practica-4 " ") - Верстка блока с преимуществами, Слайдер
 
 [Урок 17](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/lesson-17 " ") - Всплывающие окна
+
+[Практика. Часть 5](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/practica-5 " ") - Верстка всплывающих окон на сайте
