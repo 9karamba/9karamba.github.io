@@ -1,0 +1,11 @@
+button{
+	margin-top: 5rem;
+	margin-left: 5rem;
+	outline: none;
+}
+.da-button, .net-button{
+	margin: 0;
+}
+.header{
+	text-align: center;
+}
