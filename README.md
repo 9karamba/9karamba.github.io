@@ -3,30 +3,32 @@
 # Анастасия Беляева
 Мои домашние задания
 
-[Урок 2](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/lesson-2 " ") - Работа с графикой для разработчика
+[Урок 2](https://9karamba.github.io/DOMASHKA/lesson-2/ " ") - Работа с графикой для разработчика
 
-[Урок 7](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/lesson-7 " ") - Верстка первого макета
+[Урок 7](https://9karamba.github.io/DOMASHKA/lesson-7/ " ") - Верстка первого макета
 
-[Урок 8](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/lesson-8 " ") - Ускорение верстки в разы
+[Урок 8](https://9karamba.github.io/DOMASHKA/lesson-8/ " ") - Ускорение верстки в разы
 
-[Урок 9](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/lesson-9 " ") - Верстка при помощи bootstrap
+[Урок 9](https://9karamba.github.io/DOMASHKA/lesson-9/ " ") - Верстка при помощи bootstrap
 
-[Урок 13](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/lesson-13 " ") - Верстка при помощи pixel-perfect
+[Урок 13](https://9karamba.github.io/DOMASHKA/lesson-13/ " ") - Верстка при помощи pixel-perfect
 
-[Практика. Часть 1](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/practica-1 " ") - Верстка шапки
+[Практика. Часть 1](https://9karamba.github.io/DOMASHKA/practica-1 " ") - Верстка шапки
 
-[Урок 14](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/lesson-14 " ") - Работа со шрифтами
+[Урок 14](https://9karamba.github.io/DOMASHKA/lesson-14/ " ") - Работа со шрифтами
 
-[Практика. Часть 2](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/practica-2 " ") - Подключение шрифтов
+[Практика. Часть 2](https://9karamba.github.io/DOMASHKA/practica-2 " ") - Подключение шрифтов
 
-[Урок 15](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/lesson-15 " ") - Псевдоклассы и псевдоэлементы
+[Урок 15](https://9karamba.github.io/DOMASHKA/lesson-15/ " ") - Псевдоклассы и псевдоэлементы
 
-[Практика. Часть 3](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/practica-3 " ") - Эффекты при наведении и адаптив первого экрана
+[Практика. Часть 3](https://9karamba.github.io/DOMASHKA/practica-3 " ") - Эффекты при наведении и адаптив первого экрана
 
-[Урок 16](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/lesson-16 " ") - Слайдер на сайте
+[Урок 16](https://9karamba.github.io/DOMASHKA/lesson-16/ " ") - Слайдер на сайте
 
-[Практика. Часть 4](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/practica-4 " ") - Верстка блока с преимуществами, Слайдер
+[Практика. Часть 4](https://9karamba.github.io/DOMASHKA/practica-4 " ") - Верстка блока с преимуществами, Слайдер
 
-[Урок 17](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/lesson-17 " ") - Всплывающие окна
+[Урок 17](https://9karamba.github.io/DOMASHKA/lesson-17/ " ") - Всплывающие окна
 
-[Практика. Часть 5](https://github.com/9karamba/9karamba.github.io/tree/master/DOMASHKA/practica-5 " ") - Верстка всплывающих окон на сайте
+[Практика. Часть 5](https://9karamba.github.io/DOMASHKA/practica-5 " ") - Верстка всплывающих окон на сайте
+
+[Практика. Часть 6](https://9karamba.github.io/DOMASHKA/practica-6 " ") - Верстка блока с ценами
