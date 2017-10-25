@@ -32,3 +32,5 @@
 [Практика. Часть 5](https://9karamba.github.io/DOMASHKA/practica-5 " ") - Верстка всплывающих окон на сайте
 
 [Практика. Часть 6](https://9karamba.github.io/DOMASHKA/practica-6 " ") - Верстка блока с ценами
+
+[Практика. Часть 7](https://9karamba.github.io/DOMASHKA/practica-7 " ") - Верстка блока с отзывами
