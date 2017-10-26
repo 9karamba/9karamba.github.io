@@ -38,3 +38,5 @@
 [Практика. Часть 8](https://9karamba.github.io/DOMASHKA/practica-8 " ") - Доверстали блок с отзывами
 
 [Практика. Часть 9](https://9karamba.github.io/DOMASHKA/practica-9 " ") - Верстаем схему работы и все включено
+
+[Практика. Часть 10](https://9karamba.github.io/DOMASHKA/practica-10 " ") - Верстаем блок "Развеиваем сомнения"
