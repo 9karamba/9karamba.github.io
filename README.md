@@ -34,3 +34,5 @@
 [Практика. Часть 6](https://9karamba.github.io/DOMASHKA/practica-6 " ") - Верстка блока с ценами
 
 [Практика. Часть 7](https://9karamba.github.io/DOMASHKA/practica-7 " ") - Верстка блока с отзывами
+
+[Практика. Часть 8](https://9karamba.github.io/DOMASHKA/practica-8 " ") - Доверстали блок с отзывами
