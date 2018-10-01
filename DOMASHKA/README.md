@@ -3,7 +3,7 @@
 # Анастасия Беляева
 Мои домашние задания
 
-[Урок 2](https://9karamba.github.io/DOMASHKA/lesson-2/ " ") - Работа с графикой для разработчика
+[Урок 2](https://9karamba.github.io/lesson-2/ " ") - Работа с графикой для разработчика
 
 [Урок 7](https://9karamba.github.io/DOMASHKA/lesson-7/ " ") - Верстка первого макета
 
